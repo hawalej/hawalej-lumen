@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://www.hawalej.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Grzegorz Hawałej',
+  subtitle: 'Grzegorz Hawałej operator obrazu. Media cyfrowe i produkcja audiowizualna.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-153380830-1',
   useKatex: false,
   menu: [
     {
@@ -25,26 +25,26 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Grzegorz Hawałej',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Operator obrazu. Media cyfrowe i produkcja audiowizualna.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'grzegorz.hawalej@gmail.com',
+      facebook: 'hawalej',
+      telegram: 'hawalej',
+      twitter: 'hawalej',
+      github: 'hawalej',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'hawalej',
+      instagram: 'hawalej',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
       youtube: '',
-      soundcloud: '',
-      medium: '',
+      soundcloud: 'hawalej',
+      medium: '@hawalej',
     }
   }
 };
