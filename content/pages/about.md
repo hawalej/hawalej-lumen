@@ -3,7 +3,7 @@ template: page
 title: About me
 slug: about
 socialImage: /media/901715_330135657114878_369206314_o.jpg
-draft: true
+draft: false
 ---
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
 
