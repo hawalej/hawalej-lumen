@@ -3,7 +3,7 @@ template: post
 title: Humane Typography in the Digital Age
 slug: humane-typography-in-the-digital-age
 socialImage: /media/901715_330135657114878_369206314_o.jpg
-draft: false
+draft: true
 date: 2017-08-19T22:40:32.169Z
 description: An Essay on Typography by Eric Gill takes the reader back to the
   year 1930. The year when a conflict between two worlds came to its term. The
