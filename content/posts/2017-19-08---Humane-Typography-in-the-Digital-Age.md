@@ -5,9 +5,10 @@ slug: humane-typography-in-the-digital-age
 socialImage: /media/901715_330135657114878_369206314_o.jpg
 draft: true
 date: 2017-08-19T22:40:32.169Z
-description: An Essay on Typography by Eric Gill takes the reader back to the
-  year 1930. The year when a conflict between two worlds came to its term. The
-  machines of the industrial world finally took over the handicrafts.
+description: Morbi in sem quis dui placerat ornare. Pellentesque odio nisi,
+  euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat. Mauris
+  placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.
+  Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
 category: Typography
 tags:
   - Design
