@@ -1,7 +1,7 @@
 ---
 template: post
-title: Humane Typography in the Digital Age
-slug: humane-typography-in-the-digital-age
+title: Pierwszy wpis na stronie
+slug: pierwszy-wpis-na-stronie
 socialImage: /media/901715_330135657114878_369206314_o.jpg
 draft: false
 date: 2017-08-19T22:40:32.169Z
