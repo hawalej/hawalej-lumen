@@ -3,7 +3,7 @@ template: page
 title: Contact me
 slug: contacts
 socialImage: /media/image-4.jpg
-draft: true
+draft: false
 ---
 
 Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
