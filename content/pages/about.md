@@ -1,7 +1,7 @@
 ---
 template: page
 title: O mnie
-slug: about
+slug: omnie
 socialImage: /media/901715_330135657114878_369206314_o.jpg
 draft: false
 ---
