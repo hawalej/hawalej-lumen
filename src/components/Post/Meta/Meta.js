@@ -8,7 +8,7 @@ type Props = {
 
 const Meta = ({ date }: Props) => (
   <div className={styles['meta']}>
-    <p className={styles['meta__date']}>Published {new Date(date).toLocaleDateString('pl-PL', { year: 'numeric', month: 'short', day: 'numeric' })}</p>
+    <p className={styles['meta__date']}>Opublikowane {new Date(date).toLocaleDateString('pl-PL', { year: 'numeric', month: 'short', day: 'numeric' })}</p>
   </div>
 );
 
