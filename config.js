@@ -30,21 +30,21 @@ module.exports = {
     bio: 'Operator obrazu. Media cyfrowe, produkcja audiowizualna.',
     contacts: {
       email: 'grzegorz.hawalej@gmail.com',
-      facebook: 'hawalej',
-      telegram: 'hawalej',
+      facebook: '',
+      telegram: '',
       twitter: 'hawalej',
-      github: 'hawalej',
+      github: '',
       rss: '',
       vkontakte: '',
-      linkedin: 'hawalej',
-      instagram: 'hawalej',
+      linkedin: '',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
       youtube: '',
-      soundcloud: 'hawalej',
-      medium: '@hawalej',
+      soundcloud: '',
+      medium: '',
     }
   }
 };
