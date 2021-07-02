@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://www.hawalej.com',
   pathPrefix: '/',
   title: 'Grzegorz Hawałej',
-  subtitle: 'Grzegorz Hawałej operator obrazu. Media cyfrowe i produkcja audiowizualna.',
+  subtitle: 'Grzegorz Hawałej. Media cyfrowe i produkcja audiowizualna.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
