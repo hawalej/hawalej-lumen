@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Grzegorz Hawałej',
     photo: '/photo.jpg',
-    bio: 'Operator obrazu. Media cyfrowe, produkcja audiowizualna.',
+    bio: 'Media cyfrowe. produkcja audiowizualna.',
     contacts: {
       email: 'grzegorz.hawalej@gmail.com',
       facebook: '',
